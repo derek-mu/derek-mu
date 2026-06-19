@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Derek Mu
+<a href="https://github.com/Jermic">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</a>
+<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Derek+Mu)](https://git.io/typing-svg)
 
 ### AI Native Growth Operator | Global Community Manager | Product GTM
 
@@ -35,26 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=derek_mu&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek_mu&layout=compact&theme=transparent"/>
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=derek_mu&theme=github-compact" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI Polyhedron
@@ -79,10 +63,8 @@ Community Growth, KOC Operations & Product GTM
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=derek_mu&style=flat-square)
-
+<img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jermic&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" />
 ---
 
 > “Technology is best when it brings people together.”
