@@ -1,8 +1,10 @@
-<a href="https://github.com/Jermic">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://github.com/meverestz">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </a>
-<br></br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Derek+Mu)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Derek+Mu;AI+Native+Growth+Operator;Global+Community+Manager;Building+AI+%26+Growth+Systems)](https://git.io/typing-svg)
+
 
 ### AI Native Growth Operator | Global Community Manager | Product GTM
 
