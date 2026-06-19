@@ -39,9 +39,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=meverestz&show_icons=true&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=derek_mu&show_icons=true&theme=transparent"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meverestz&layout=compact&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek_mu&layout=compact&theme=transparent"/>
 
 </div>
 
@@ -50,7 +50,7 @@
 ## 🔥 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meverestz&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=derek_mu&theme=github-compact" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Community Growth, KOC Operations & Product GTM
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=meverestz&style=flat-square)
+![](https://komarev.com/ghpvc/?username=derek_mu&style=flat-square)
 
 ---
 
