@@ -5,24 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Derek+Mu;AI+Native+Growth+Operator;Global+Community+Manager;Building+AI+%26+Growth+Systems)](https://git.io/typing-svg)
 
-
-### AI Native Growth Operator | Global Community Manager | Product GTM
-
-🌏 Built communities across **13+ countries**
-
-📈 Generated **47M+ campaign impressions**
-
-👥 Managed **500+ Global KOCs**
-
-🚀 Passionate about AI, Creator Economy & Consumer Tech
-
 ---
 
 ## 🚀 About Me
 
 - 🌍 Global Community Manager @ OPPO
 - 🤖 Exploring AI Agents, Generative AI & Automation
-- 📱 Consumer Electronics & Product Marketing
+- 📱 Consumer Electronics & AI Product Marketing
 - 📈 Community Growth & User Acquisition
 - 🎥 AI Video Creator (Veo / Seedance / Kling / Runway)
 - 🇬🇧 MSc, University of Manchester
@@ -57,13 +46,6 @@ Community Growth, KOC Operations & Product GTM
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derek_Mu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-meverestz-black?style=for-the-badge&logo=github)](https://github.com/meverestz)
-
----
 
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jermic&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" />
