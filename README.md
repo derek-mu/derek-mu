@@ -33,19 +33,12 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Polyhedron
-Prompt Library + AI Workflow Collection
-
-### 📱 OPPO Global Community
-Community Growth System & Global Creator Programs
-
-### 🎥 AI Video Lab
-Veo, Seedance, Kling & ComfyUI Experiments
+Prompt Library + AI Tools Collection
 
 ### 📊 Growth Playbook
 Community Growth, KOC Operations & Product GTM
 
 ---
-
 
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jermic&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" />
