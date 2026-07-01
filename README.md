@@ -36,7 +36,7 @@
 Prompt Library + AI Tools Collection
 
 ### 📊 Growth Playbook
-Community Growth, KOC Operations & Product GTM
+Community Growth, KOL/KOCs Operations & Product GTM
 
 ---
 
